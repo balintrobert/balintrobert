@@ -5,7 +5,7 @@
 
 <h2> :bust_in_silhouette: About me</h2>
 
-- I'm a self-taught junior front end developer with a primary focus on progress and my main goal is to become a full stack developer. I'm a creative, sociable, open-minded and self-motivated type of person who's constantly learning and loves to discover new technologies. 
+- :wolf: I'm a self-taught junior front end developer with a primary focus on progress and my main goal is to become a full stack developer. I'm a creative, sociable, open-minded and self-motivated type of person who's constantly learning and loves to discover new technologies. 
 
 - 🔭 I’m currently working on: [cunbm-gestiune-timp-lucrare-diploma](https://github.com/balintrobert/cunbm-gestiune-timp-lucrare-diploma)
 
@@ -14,8 +14,8 @@
 <h2> :computer: Technologies</h2>
 
 <p>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/>
 </p>
 

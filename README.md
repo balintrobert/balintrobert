@@ -1,4 +1,4 @@
-<h1 align="center">console.log('Hello World👋,I'm Robi!');</h1>
+<h1 align="center">console.log(' Hello World 👋, I'm Robi! ');</h1>
 <h3 align="center">Junior Frontend developer from Romania</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=balintrobert" alt="balintrobert" /></p>
@@ -49,4 +49,5 @@
 <a href="https://fb.com/balintrobii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="balintrobii" height="30" width="30" /></a>
 <a href="https://instagram.com/balintrobii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="balintrobii" height="30" width="30" /></a>
 </p>
-- 📫  **balint.robi97@gmail.com**
+
+- 📫 Or via email at : **balint.robi97@gmail.com**

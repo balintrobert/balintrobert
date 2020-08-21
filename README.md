@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balintrobert" alt="balintrobert" /> </p>
 
-- 🔭 I’m currently working on [cunbm-gestiune-timp-lucrare-diploma](https://github.com/balintrobert/cunbm-gestiune-timp-lucrare-diploma)
+- 🔭 I’m currently working on: [cunbm-gestiune-timp-lucrare-diploma](https://github.com/balintrobert/cunbm-gestiune-timp-lucrare-diploma)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning: **ReactJS**
 
-- 📫 How to reach me **balint.robi97@gmail.com**
+- 📫 How to reach me: **balint.robi97@gmail.com**
 
-<p align="center">
+<p align="left">
+- Or check me out on:
 <a href="https://linkedin.com/in/balint-robert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="balint-robert" height="30" width="30" /></a>
 <a href="https://fb.com/balintrobii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="balintrobii" height="30" width="30" /></a>
 <a href="https://instagram.com/balintrobii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="balintrobii" height="30" width="30" /></a>

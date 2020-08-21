@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Robi</h1>
+<h1 align="center">console.log('Hello World👋,I'm Robi');</h1>
 <h3 align="center">Junior Frontend developer from Romania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balintrobert" alt="balintrobert" /> </p>
+
+<h2>About me</h2>
 
 - 🔭 I’m currently working on: [cunbm-gestiune-timp-lucrare-diploma](https://github.com/balintrobert/cunbm-gestiune-timp-lucrare-diploma)
 

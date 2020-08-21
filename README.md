@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=balintrobert" alt="balintrobert" /></p>
 
-<h2>About me</h2>
+<h2> :bust_in_silhouette: About me</h2>
 
 - I'm a self-taught junior front end developer with a primary focus on progress and my main goal is to become a full stack developer. I'm a creative, sociable, open-minded and self-motivated type of person who's constantly learning and loves to discover new technologies. 
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning: **Modern JavaScript** & **ReactJS**
 
-<h2>Technologies</h2>
+<h2> :computer: Technologies</h2>
 
 <p>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
@@ -37,12 +37,12 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
 </p>
 
-<h2>Stats</h2>
+<h2>:chart_with_upwards_trend: Stats</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balintrobert&show_icons=true" alt="balintrobert" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balintrobert&layout=compact&hide=html" alt="balintrobert" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=balintrobert&show_icons=true" alt="balintrobert" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balintrobert&layout=compact&hide=html" alt="balintrobert" /></p>
 
-<h2>Contact</h2>
+<h2> :email: Contact</h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/balint-robert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="balint-robert" height="30" width="30" /></a>
@@ -50,4 +50,4 @@
 <a href="https://instagram.com/balintrobii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="balintrobii" height="30" width="30" /></a>
 </p>
 
-- 📫 Or via email at : **balint.robi97@gmail.com**
+- Or via email at : **balint.robi97@gmail.com**

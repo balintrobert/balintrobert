@@ -39,16 +39,14 @@
 
 <h2>Stats</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balintrobert&show_icons=true" alt="balintrobert" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balintrobert&layout=compact&hide=html" alt="balintrobert" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balintrobert&show_icons=true" alt="balintrobert" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balintrobert&layout=compact&hide=html" alt="balintrobert" /></p>
 
 <h2>Contact</h2>
 
-- 📫 How to reach me: **balint.robi97@gmail.com**
-
-- Or check me out on:
 <p align="left">
 <a href="https://linkedin.com/in/balint-robert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="balint-robert" height="30" width="30" /></a>
 <a href="https://fb.com/balintrobii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="balintrobii" height="30" width="30" /></a>
 <a href="https://instagram.com/balintrobii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="balintrobii" height="30" width="30" /></a>
 </p>
+- 📫  **balint.robi97@gmail.com**

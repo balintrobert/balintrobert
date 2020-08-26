@@ -7,7 +7,7 @@
 
 - :wolf: I'm a self-taught junior front end developer with a primary focus on progress and my main goal is to become a full stack developer. I'm a creative, sociable, open-minded and self-motivated type of person who's constantly learning and loves to discover new technologies. 
 
-- 🔭 I’m currently working on: [cunbm-gestiune-timp-lucrare-diploma](https://github.com/balintrobert/cunbm-gestiune-timp-lucrare-diploma)
+- 🔭 I’m currently working on: [cunbm-licenta-2020](https://balintrobert.github.io/cunbm-licenta-2020/)
 
 - 🌱 I’m currently learning: **Modern JavaScript** & **ReactJS**
 

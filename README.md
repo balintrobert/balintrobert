@@ -19,7 +19,7 @@ I'm currently looking for an internship or a full time job as a junior frontend 
  - Web Fundamentals: <img src="https://img.shields.io/badge/-HTML-orange?style=flat"> <img src="https://img.shields.io/badge/-CSS-blue?style=flat"> <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat">
  - CSS Preprocessors: <img src="https://img.shields.io/badge/-SASS-pink?style=flat">
  - CSS Frameworks: <img src="https://img.shields.io/badge/-Bootstrap-violet?style=flat"> <img src="https://img.shields.io/badge/-Semantic UI-brightgreen?style=flat">
- - JS Frontend Framework: <img src="https://img.shields.io/badge/-ReactJS-blue?style=flat">
+ - JS Frontend Library: <img src="https://img.shields.io/badge/-ReactJS-blue?style=flat">
  - Basic Databases: <img src="https://img.shields.io/badge/-MongoDB-green?style=flat"> <img src="https://img.shields.io/badge/-MySQL-blue?style=flat">
  - Basic Backend: <img src="https://img.shields.io/badge/-NodeJS-green?style=flat"> <img src="https://img.shields.io/badge/-Express-black?style=flat">
 

@@ -2,6 +2,9 @@
 <h1 align="center">Robert Balint <img src="https://komarev.com/ghpvc/?username=balintrobert" alt="balintrobert" /></h1>
 <h3 align="center">Aspiring Junior Frontend Web Developer</h3>
 
+
+
+
  <h2><img src="https://media.giphy.com/media/fjxNdY8Czln1YejBz9/giphy.gif" width="40px"/>Contact</h2>
  <a href="https://linkedin.com/in/robertbalint" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-robertbalint-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
  <a href="mailto:balint.robi97@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-balint.robi97-red?style=for-the-badge&logo=gmail&logoColor=white&link=**mailto:**balint.robi97@gmail.com"></a>

@@ -1,6 +1,6 @@
 
 <h1 align="center">Robert Balint <img src="https://komarev.com/ghpvc/?username=balintrobert" alt="balintrobert" /></h1>
-<h3 align="center">Aspiring Junior Frontend Web Developer</h3>
+<h3 align="center">Junior Frontend Web Developer</h3>
 <br/>
 <br/>
 <br/>
@@ -10,8 +10,7 @@
 
 <h2><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="40px"/> About me</h2>
 
-Hello there. My name is Robi. I'm 23 years old and I'm from Romania. I'm a fresh graduate and a web enthusiast.  
-I'm currently looking for an internship or a full time job as a junior frontend developer to gain experience, new skills and to improve my current ones.  In the future, my main goal is to become a full stack developer.
+Hello there. My name is Robi. I'm 23 years old and I'm from Romania. I'm a fresh graduate who enjoys to be up to date with anything related to technology. My hobbies are walking & camping in nature, computer games and graphic design. Currently I want to improve my frontend development skills, but my dream is to become a senior full stack developer.
 
 <h2><img src="https://media.giphy.com/media/xUPGcfEAZhlZXCZrbi/giphy.gif" width="40px"/> Tools & technologies</h2>
 

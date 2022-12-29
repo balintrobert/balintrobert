@@ -10,7 +10,7 @@
 
 <h2><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="40px"/> About me</h2>
 
-Hello there. My name is Robi. I'm a 25 yers old developer from Romania.
+Hello there :wave:. My name is Robi. I'm a 25 yers old developer from Romania.
 I'm a fresh graduate who enjoys to be up to date with anything related to technology.
 My main hobbies are cooking and computer games, but I also enjog walking & camping in nature, graphic design and going to metal concerts :metal:.
 Currently, my goal is to improve my frontend development skills, but my dream is to become a full stack developer.
